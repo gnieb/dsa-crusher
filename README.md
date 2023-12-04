@@ -15,3 +15,10 @@ i - run ios
 ```sh
 npx expo start -c 
 ```
+
+
+
+
+## CREDITS
+
+- curated DSA list based on [DSA Cracker Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) by [Love Babar](https://www.linkedin.com/in/love-babbar-38ab2887/)
